@@ -1,0 +1,25 @@
+Search Started...
+
+Enter the number of items:2
+Enter the total price:100
+
+Please Wait...Searching for the combination......
+
+We're sorry, we couldn't find an exact match. But we got as close as we can get:104.95
+
+Following combinations of products are found
+
+Products Combination :1
+**Product Name: SELECT Tri Short  **ProductID: 7712935  **Price: $60.00  **BrandName: Pearl Izumi  **SytleID: 1299427  **ProductURL: http://www.zappos.com/product/7712935/color/3  **ColourID: 3
+**Product Name: Non-Stirrup Calf Guard  **ProductID: 7892154  **Price: $44.95  **BrandName: 2XU  **SytleID: 1701107  **ProductURL: http://www.zappos.com/product/7892154/color/183092  **ColourID: 183092
+
+Products Combination :2
+**Product Name: Non-Stirrup Calf Guard  **ProductID: 7892154  **Price: $44.95  **BrandName: 2XU  **SytleID: 1701107  **ProductURL: http://www.zappos.com/product/7892154/color/183092  **ColourID: 183092
+**Product Name: W Sugar Short  **ProductID: 8095652  **Price: $60.00  **BrandName: Pearl Izumi  **SytleID: 2156185  **ProductURL: http://www.zappos.com/product/8095652/color/86257  **ColourID: 86257
+
+Products Combination :3
+**Product Name: Non-Stirrup Calf Guard  **ProductID: 7892154  **Price: $44.95  **BrandName: 2XU  **SytleID: 1701107  **ProductURL: http://www.zappos.com/product/7892154/color/183092  **ColourID: 183092
+**Product Name: W Sugar Short  **ProductID: 8095652  **Price: $60.00  **BrandName: Pearl Izumi  **SytleID: 2156184  **ProductURL: http://www.zappos.com/product/8095652/color/189016  **ColourID: 189016
+
+Do you want to continue(y/n):n
+Search Ended...
